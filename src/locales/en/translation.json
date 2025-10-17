@@ -1,0 +1,76 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Hi, I’m {{name}} 👋",
+    "description": "I’m a Frontend Developer & UI/UX Designer passionate about crafting immersive, beautiful, and user-centered experiences for the modern web.",
+    "button": "View My Work"
+  },
+  "about": {
+    "title": "About Me",
+    "desc1": "I’m an Informatics student at Nusa Mandiri University (GPA 3.93) focusing on Frontend Development and UI/UX Design.",
+    "desc2": "I love blending design and technology to create digital experiences that are functional, elegant, and meaningful.",
+    "card1_title": "Frontend Development",
+    "card1_desc": "Building modern websites using React.js, Tailwind, and API integration.",
+    "card2_title": "UI/UX Design",
+    "card2_desc": "Designing intuitive and aesthetic interfaces using Figma & Design System.",
+    "card3_title": "Innovation & Growth",
+    "card3_desc": "Always experimenting to merge technology and impactful creativity."
+  },
+  "projects": {
+    "title": "My Projects",
+    "subtitle": "A collection of my works that showcase my ability to build modern and user-focused web experiences.",
+
+    "card1_name": "Tulus Water",
+    "card1_desc": "An e-commerce website for ordering mineral water and managing real-time driver deliveries.",
+    "card1_tech": "Frontend Developer, React.js, Redux, Tailwind CSS",
+
+    "card2_name": "Driver Tulus Water",
+    "card2_desc": "A web-based platform for drivers to manage and deliver water orders efficiently and in real-time.",
+    "card2_tech": "Frontend Developer, React.js, Redux, Tailwind CSS",
+
+    "card3_name": "MIT Internal System",
+    "card3_desc": "An internal IT management system covering asset management, preventive maintenance, worksheets, and centralized KPI tracking.",
+    "card3_tech": "Fullstack Developer, React.js, Redux, Tailwind CSS, Node.js, Express.js, MVC Architecture, MySQL",
+
+    "card4_name": "Mentorify",
+    "card4_desc": "A mentorship booking platform designed for students and Gen Z to develop new skills while earning extra income through mentoring sessions.",
+    "card4_tech": "UI/UX Design, Figma, Design Thinking",
+
+    "card5_name": "CookYumy",
+    "card5_desc": "A recipe-sharing community website where users can post their dishes, give feedback, and join discussions in an interactive cooking forum.",
+    "card5_tech": "UI/UX Design, Figma, Design Thinking",
+
+    "view_project": "View Project"
+  },
+  "skills": {
+  "title": "My Skills",
+  "subtitle": "My expertise includes frontend development, UI/UX design, and backend architecture.",
+  
+  "card1_title": "Frontend Development",
+  "card1_desc": "Building fast, modern, and responsive interfaces using React.js & Tailwind CSS.",
+  "card1_items": ["React.js", "JavaScript", "Tailwind CSS", "Vite", "HTML5", "CSS3"],
+  
+  "card2_title": "UI/UX & Design",
+  "card2_desc": "Designing intuitive and aesthetic user experiences through UI/UX principles and design systems.",
+  "card2_items": ["Figma", "Wireframing", "Prototyping", "Design System", "Canva"],
+  
+  "card3_title": "Backend & Architecture",
+  "card3_desc": "Building simple backend structures, RESTful APIs, and applying MVC architecture patterns.",
+  "card3_items": ["Node.js", "Express", "MVC", "REST API"]
+},
+"contact": {
+  "title": "Get In Touch",
+  "subtitle": "I’m always open to new opportunities, collaborations, or just a friendly chat. Feel free to reach out via email or connect with me on social media.",
+  "button": "Email Me",
+  "footer": "Farhan Alamsyah — Thank you for visiting my portfolio!"
+}
+
+
+
+}

@@ -1,0 +1,76 @@
+{
+  "navbar": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "projects": "Proyek",
+    "skills": "Keahlian",
+    "contact": "Kontak"
+  },
+  "home": {
+    "title": "Halo, saya {{name}} 👋",
+    "description": "Saya seorang Frontend Developer & UI/UX Designer yang fokus pada pengalaman pengguna modern dan menarik.",
+    "button": "Lihat Proyek Saya"
+  },
+  "about": {
+    "title": "Tentang Saya",
+    "desc1": "Saya mahasiswa Informatika di Universitas Nusa Mandiri (IPK 3,93) dengan fokus pada Frontend Development dan UI/UX Design.",
+    "desc2": "Saya senang menggabungkan desain dan teknologi untuk menciptakan pengalaman digital yang fungsional dan menyenangkan.",
+    "card1_title": "Frontend Development",
+    "card1_desc": "Membangun website modern menggunakan React.js, Tailwind, dan integrasi API.",
+    "card2_title": "UI/UX Design",
+    "card2_desc": "Mendesain antarmuka intuitif dan estetik menggunakan Figma & Design System.",
+    "card3_title": "Innovation & Growth",
+    "card3_desc": "Selalu bereksperimen untuk menggabungkan teknologi dan kreativitas yang berdampak."
+  },
+"projects": {
+    "title": "Proyek Saya",
+    "subtitle": "Beberapa hasil karya yang mencerminkan kemampuan saya dalam membangun website modern yang berfokus pada pengalaman pengguna.",
+
+    "card1_name": "Tulus Water",
+    "card1_desc": "Website e-commerce untuk pemesanan air minum mineral serta manajemen pengantaran driver secara real-time.",
+    "card1_tech": "Frontend Developer, React.js, Redux, Tailwind CSS",
+
+    "card2_name": "Driver Tulus Water",
+    "card2_desc": "Platform berbasis web untuk driver dalam mengelola dan mengantarkan pesanan air minum secara efisien dan real-time.",
+    "card2_tech": "Frontend Developer, React.js, Redux, Tailwind CSS",
+
+    "card3_name": "MIT Internal System",
+    "card3_desc": "Sistem manajemen IT internal yang mencakup pengelolaan aset, preventive maintenance, worksheet, serta pemantauan KPI secara terpusat.",
+    "card3_tech": "Fullstack Developer, React.js, Redux, Tailwind CSS, Node.js, Express.js, MVC Architecture, MySQL",
+
+    "card4_name": "Mentorify",
+    "card4_desc": "Platform pemesanan mentor bagi mahasiswa dan Gen Z yang ingin mengembangkan keterampilan sekaligus mendapatkan penghasilan tambahan melalui kegiatan mentoring.",
+    "card4_tech": "UI/UX Design, Figma, Design Thinking",
+
+    "card5_name": "CookYumy",
+    "card5_desc": "Website komunitas berbagi resep masakan yang memungkinkan pengguna mengunggah resep, memberikan testimoni, dan berdiskusi di forum kuliner interaktif.",
+    "card5_tech": "UI/UX Design, Figma, Design Thinking",
+
+    "view_project": "Lihat Proyek"
+  },
+  "skills": {
+  "title": "Keahlian Saya",
+  "subtitle": "Keahlian saya mencakup pengembangan frontend, desain UI/UX, dan arsitektur backend.",
+  
+  "card1_title": "Frontend Development",
+  "card1_desc": "Membangun interface modern, cepat, dan responsif menggunakan React.js & Tailwind CSS.",
+  "card1_items": ["React.js", "JavaScript", "Tailwind CSS", "Vite", "HTML5", "CSS3"],
+  
+  "card2_title": "UI/UX & Design",
+  "card2_desc": "Merancang pengalaman pengguna yang intuitif dan estetis melalui prinsip UI/UX dan Design System.",
+  "card2_items": ["Figma", "Wireframing", "Prototyping", "Design System", "Canva"],
+  
+  "card3_title": "Backend & Architecture",
+  "card3_desc": "Membangun struktur backend sederhana, RESTful API, dan menerapkan pola arsitektur MVC.",
+  "card3_items": ["Node.js", "Express", "MVC", "REST API"]
+},
+"contact": {
+  "title": "Hubungi Saya",
+  "subtitle": "Saya selalu terbuka untuk peluang baru, kolaborasi proyek, atau sekadar berdiskusi. Jangan ragu untuk menghubungi saya melalui email atau media sosial di bawah ini.",
+  "button": "Kirim Email",
+  "footer": "Farhan Alamsyah — Terima kasih telah mengunjungi portofolio saya!"
+}
+
+
+
+}
