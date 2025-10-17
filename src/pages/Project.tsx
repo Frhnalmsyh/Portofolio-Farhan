@@ -8,7 +8,7 @@ import cookyummy from "../assets/pictures/cookyummy.png";
 import drivertulus from "../assets/pictures/drivertulus.png";
 import tulus from "../assets/pictures/tulus.png";
 import mentorify from "../assets/pictures/mentorify.png";
-import mit from "../assets/pictures/mit.png";
+import mit from "../assets/pictures/MIT.png";
 
 export default function Projects() {
     const { t } = useTranslation();
